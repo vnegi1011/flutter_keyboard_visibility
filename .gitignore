@@ -1,6 +1,15 @@
 .DS_Store
+.dart_tool/
 
-# Ignore the root .idea folder except the runConfigurations folder
-!idea/
-.idea/*
-!/.idea/runConfigurations/
+.packages
+.pub/
+
+pubspec.lock
+
+build/
+
+*.iml
+
+.idea/
+
+coverage/

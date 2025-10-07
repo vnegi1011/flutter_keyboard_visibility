@@ -1,13 +1,12 @@
 # Flutter Keyboard Visibility
 [![pub package](https://img.shields.io/pub/v/flutter_keyboard_visibility.svg?label=flutter_keyboard_visibility&color=blue)](https://pub.dev/packages/flutter_keyboard_visibility)
-![ci](https://github.com/MisterJimson/flutter_keyboard_visibility/actions/workflows/test.yml/badge.svg?branch=master)
 [![codecov](https://codecov.io/gh/MisterJimson/flutter_keyboard_visibility/branch/master/graph/badge.svg)](https://codecov.io/gh/MisterJimson/flutter_keyboard_visibility)
 
 React to keyboard visibility changes.
 
-### Note about Flutter Web and Desktop support
+### Note about Flutter Web support
 
-Web support is an open issue [here](https://github.com/MisterJimson/flutter_keyboard_visibility/issues/10), desktop support is an open issue [here](https://github.com/MisterJimson/flutter_keyboard_visibility/issues/124). Currently this library will just return `false` for keyboard visibility on web and desktop.
+Web support is an open issue [here](https://github.com/MisterJimson/flutter_keyboard_visibility/issues/10). Currently this library will just return `false` for keyboard visibility on web.
 
 ## Install
 [Install the package](https://pub.dev/packages/flutter_keyboard_visibility/install)
